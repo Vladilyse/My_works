@@ -1,0 +1,31 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Ephesis&family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@300&display=swap');
+body{
+    background-color: rgb(182, 219, 206);
+    
+}
+.name{
+    color: rgb(18, 74, 228); 
+    font-size: 70px;
+    font-family: 'Montserrat', sans-serif;
+
+}
+a{
+    color: rgb(155, 59, 24);
+}
+  
+.su{
+    color: rgb(43, 10, 134);
+}
+img{
+    width: 230px;
+    height: 300px;
+    border-radius: 100%;
+}
+.fa{
+    color: forestgreen;
+}
+.sh{
+    font-family: 'Gemunu Libre', sans-serif;
+}

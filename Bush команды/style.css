@@ -1,0 +1,28 @@
+body{
+    background-color: antiquewhite;
+}
+table{
+    width: 1000px;
+    height: 600px;
+    text-align: center;
+    margin: auto;
+    font-size: 23px;
+}
+.left{
+    background-color: coral ;
+    width: 280px;
+}
+.right{
+    background-color: rgb(102, 169, 224) ;
+}
+.left:hover{
+    background-color: chocolate;
+    width: 250px;
+}
+.right:hover{
+    background-color: cornflowerblue;
+    width: 800px;
+}
+.comand{
+    background-color: cadetblue;
+}
